@@ -1,0 +1,6 @@
+@BlueprintAPI_HostAddress = http://localhost:5258
+
+GET {{BlueprintAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
