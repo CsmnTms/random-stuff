@@ -1,0 +1,9 @@
+obj
+bin
+StudentAssets
+.vs
+appsettings.json
+*.db
+/API/skinet.db-wal
+/API/skinet.db-shm
+*.rdb
